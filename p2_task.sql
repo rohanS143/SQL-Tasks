@@ -81,8 +81,6 @@ INSERT INTO members(member_id, member_name, member_address, reg_date)
 VALUES('C120', 'Rohan Shrestha', '484 Hoodridge Dr', '2025-12-15'),
 ('C121', 'Keshab Pradhan', '454 Hoodridge Dr', '2025-12-05');
 
--- TASK 10
--- List Employees with Their Branch Manager's Name and their branch details:
 
 
 
