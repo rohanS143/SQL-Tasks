@@ -1,1 +1,1 @@
-** This SQL_Tasks demonstrates some basic SQL functions ** 
+** This SQL_Tasks demonstrates some basic SQL tasks ** 
